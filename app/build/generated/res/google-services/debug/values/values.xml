@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">420431679867-ktr14leukfdqmhp83sn7usu2bb5f75b3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">420431679867</string>
+    <string name="google_api_key" translatable="false">AIzaSyCbbCqhzFZTtT5gGnaHaQTZ7sosbKmE2b8</string>
+    <string name="google_app_id" translatable="false">1:420431679867:android:141e419813b14ea0e12dde</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCbbCqhzFZTtT5gGnaHaQTZ7sosbKmE2b8</string>
+    <string name="google_storage_bucket" translatable="false">professorfinder-60d3e.appspot.com</string>
+    <string name="project_id" translatable="false">professorfinder-60d3e</string>
+</resources>
